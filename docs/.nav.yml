@@ -1,0 +1,11 @@
+nav:
+  - Index: index.md
+  - Access Mechanism:
+    - Assessment: loa-high-access-mechanism.md
+    - Remote PAKE-Protected Services:
+      - Protocol: R2PS-protocol.md
+      - Services: R2PS-service-types.md
+  - Onboarding:
+    - Onboarding: onboarding.md
+    - Revocation: revocation-noaccess.md
+    

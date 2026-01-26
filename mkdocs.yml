@@ -1,5 +1,6 @@
-site_name: Swedish EUDIW documentation
-site_url: https://sitename.example
+site_name: Swedish EUDIW Technical Specifications
+site_url: https://altmannpeter.github.io/SEUDIW/
+repo_url: https://github.com/diggsweden/wallet-technical-specifications
 theme:
   name: material
   palette:
@@ -25,3 +26,7 @@ markdown_extensions:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
+
+plugins:
+   - search
+   - awesome-nav
